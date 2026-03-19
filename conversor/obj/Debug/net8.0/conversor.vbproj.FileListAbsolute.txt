@@ -1,0 +1,15 @@
+C:\Projeto_centeg\conversor\bin\Debug\net8.0\conversor.exe
+C:\Projeto_centeg\conversor\bin\Debug\net8.0\conversor.deps.json
+C:\Projeto_centeg\conversor\bin\Debug\net8.0\conversor.runtimeconfig.json
+C:\Projeto_centeg\conversor\bin\Debug\net8.0\conversor.dll
+C:\Projeto_centeg\conversor\bin\Debug\net8.0\conversor.pdb
+C:\Projeto_centeg\conversor\obj\Debug\net8.0\conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto_centeg\conversor\obj\Debug\net8.0\conversor.AssemblyInfoInputs.cache
+C:\Projeto_centeg\conversor\obj\Debug\net8.0\conversor.AssemblyInfo.vb
+C:\Projeto_centeg\conversor\obj\Debug\net8.0\conversor.vbproj.CoreCompileInputs.cache
+C:\Projeto_centeg\conversor\obj\Debug\net8.0\conversor.sourcelink.json
+C:\Projeto_centeg\conversor\obj\Debug\net8.0\conversor.dll
+C:\Projeto_centeg\conversor\obj\Debug\net8.0\refint\conversor.dll
+C:\Projeto_centeg\conversor\obj\Debug\net8.0\conversor.pdb
+C:\Projeto_centeg\conversor\obj\Debug\net8.0\conversor.genruntimeconfig.cache
+C:\Projeto_centeg\conversor\obj\Debug\net8.0\ref\conversor.dll
