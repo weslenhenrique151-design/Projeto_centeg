@@ -1,0 +1,14 @@
+C:\temp\vetor\bin\Debug\net8.0\vetor.exe
+C:\temp\vetor\bin\Debug\net8.0\vetor.deps.json
+C:\temp\vetor\bin\Debug\net8.0\vetor.runtimeconfig.json
+C:\temp\vetor\bin\Debug\net8.0\vetor.dll
+C:\temp\vetor\bin\Debug\net8.0\vetor.pdb
+C:\temp\vetor\obj\Debug\net8.0\vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vetor\obj\Debug\net8.0\vetor.AssemblyInfoInputs.cache
+C:\temp\vetor\obj\Debug\net8.0\vetor.AssemblyInfo.vb
+C:\temp\vetor\obj\Debug\net8.0\vetor.vbproj.CoreCompileInputs.cache
+C:\temp\vetor\obj\Debug\net8.0\vetor.dll
+C:\temp\vetor\obj\Debug\net8.0\refint\vetor.dll
+C:\temp\vetor\obj\Debug\net8.0\vetor.pdb
+C:\temp\vetor\obj\Debug\net8.0\vetor.genruntimeconfig.cache
+C:\temp\vetor\obj\Debug\net8.0\ref\vetor.dll
