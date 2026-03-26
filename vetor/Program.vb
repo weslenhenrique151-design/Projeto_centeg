@@ -2,14 +2,14 @@ Imports System
 
 Module Program
     Sub Main(args As String())
+
+        dim  i () As integer ("1,2,3,4,5,6,7,8,9,10") 
        
-        dim nomecompleto (2) As String
+        For i = 1 to 10
 
-       nomecompleto(0) = "weslen"
-       nomecompleto (1) = "henrique"
+            console.writeLine(i * 10) 
+            
+        Next 
 
-       console.writeLine (nomecompleto (0))
-
-       console.writeLine (nomecompleto (1))
     End Sub
 End Module

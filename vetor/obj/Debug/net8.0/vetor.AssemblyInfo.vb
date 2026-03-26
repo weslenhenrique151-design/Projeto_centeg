@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("vetor"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e51ad281ec26bd36f6fef0402654f76e2045fae7"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("vetor"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("vetor"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

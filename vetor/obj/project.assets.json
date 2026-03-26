@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Infor-14\\.nuget\\packages\\": {}
+    "C:\\Users\\INFOR - 13\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\vetor\\vetor.vbproj",
+      "projectUniqueName": "C:\\Projeto_centeg\\vetor\\vetor.vbproj",
       "projectName": "vetor",
-      "projectPath": "C:\\temp\\vetor\\vetor.vbproj",
-      "packagesPath": "C:\\Users\\Infor-14\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\vetor\\obj\\",
+      "projectPath": "C:\\Projeto_centeg\\vetor\\vetor.vbproj",
+      "packagesPath": "C:\\Users\\INFOR - 13\\.nuget\\packages\\",
+      "outputPath": "C:\\Projeto_centeg\\vetor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Infor-14\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\INFOR - 13\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
